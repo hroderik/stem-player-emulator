@@ -1,4 +1,4 @@
-Rehosting of krystalgamer's Stem Player Emulator script.
+Rehosting of krystalgamer's Stem Player Emulator script.\
 I will try to keep it maintained to the best of my ability, which isn't much when it comes to JavaScript.
 
 ## Tutorial
