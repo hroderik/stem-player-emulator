@@ -1,3 +1,6 @@
+Rehosting of krystalgamer's Stem Player Emulator script.
+I will try to keep it maintained to the best of my ability, which isn't much when it comes to JavaScript.
+
 ## Tutorial
 
 If you prefer a video tutorial you can see mine [here](https://www.youtube.com/watch?v=QqBiKZmr5rw)
